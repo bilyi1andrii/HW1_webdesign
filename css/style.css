@@ -439,6 +439,8 @@ button:hover {
 .about-us-button {
     width: 56px;
     height: 56px;
+    padding: 5px;
+    border-radius: 1px;
     border-radius: 20px;
     display: flex;
     justify-content: center;
@@ -498,16 +500,16 @@ button:hover {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 15px;
+    padding: 20px;
     background-color: rgb(255, 253, 249);
-    width: 28%;
+    width: 26%;
     height: 400px;
     justify-content: end;
 }
 
 .about-us-testimonials {
     display: flex;
-    width: 55%;
+    width: 60%;
     justify-content: space-between;
     position: absolute;
     right: -7%;
@@ -716,7 +718,8 @@ button:hover {
 .footer-social-media {
     display: flex;
     flex-direction: column;
-    width: 17%;
+    gap: 10px;
+
 }
 
 
