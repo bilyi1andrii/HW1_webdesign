@@ -637,6 +637,7 @@ button:hover {
 .subscription-email {
     border: none;
     width: 100%;
+    outline: none;
 }
 
 .subscription-form {
